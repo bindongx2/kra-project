@@ -15,6 +15,7 @@ node.js 와 react을 이용한 웹 프로젝트
     - build : Gradle
 
   - 사용 툴
+    - vsCode
     - slack
     - Figma
     - GitHub
