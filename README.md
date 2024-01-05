@@ -1,6 +1,6 @@
 # kra-project
 
-node.js 와 react을 이용한 웹 프로젝트
+node.js 와 react을 이용한 웹 팀 프로젝트
 
 
 1. 프로젝트의 목적 및 용도
