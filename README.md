@@ -1,6 +1,7 @@
 # kra-project
 
 node.js 와 react을 이용한 웹 팀 프로젝트
+도메인 : 인스타 SNS 카피
 
 
 1. 프로젝트의 목적 및 용도
